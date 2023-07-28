@@ -21,7 +21,7 @@ function getLists(html) {
         if (srctype === "1") {
             url = "https://ddys.pro/getvddr2/video?id=" + src1 + "&type=mix"
         } else if (srctype === "4") {
-            url = "https://v.ddys.zip" + src3
+            url = "https://v.ddys.pro" + src3
         }
         let zm = "https://ddys.pro/subddr/" + it.subsrc;
         list1.push({
