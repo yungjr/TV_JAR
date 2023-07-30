@@ -28,6 +28,8 @@
         }
     ],
     "sites": [
+		{"key":"lf_js_p2p","name":"磁力 | lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://qu.ax/zruH.js","ext":"18+"},
+		{"key":"lf_js_search","name":"搜索 | lf_search","type":3,"searchable":0,"changeable":0,"quickSearch":0,"filterable":1,"api":"https://qu.ax/dmMW.js"},
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
         {"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
