@@ -12,8 +12,8 @@
       "recordable": 1
     },
     {
-      "key": "lf_ikanbot",
-      "name": "點播 | lf_search1",
+      "key": "lf_search",
+      "name": "點播 | lf_search",
       "type": 3,
       "api": "https://github.com/yungjr/TV_JAR/raw/main/LuFei/lf_search1_min.js",
       "searchable": 1,
