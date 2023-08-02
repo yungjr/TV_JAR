@@ -1,17 +1,6 @@
 {
   "sites": [
     {
-      "key": "lf_ikanbot",
-      "name": "❤影視愛看機器人",
-      "type": 3,
-      "api": "https://github.com/yungjr/TV_JAR/raw/main/LuFei/lf_ikanbot3_2_min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "recordable": 1
-    },
-    {
       "key": "lf_search",
       "name": "點播 | lf_search",
       "type": 3,
@@ -25,6 +14,16 @@
     {
       "key": "lf_js_p2p",
       "name": "磁力 | lf_p2p",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://github.com/yungjr/TV_JAR/raw/main/LuFei/lf_p2p1_2_min.js"
+    },
+    {
+      "key": "lf_js_p2p",
+      "name": "磁力有18+ | lf_p2p",
       "type": 3,
       "searchable": 1,
       "changeable": 0,
