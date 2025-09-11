@@ -43,7 +43,7 @@
       "name": "哔嘀影视[js]",
       "type": 3,
       "api": "https://github.com/yungjr/dr_py/raw/main/libs/drpy2.min.js",
-      "ext": "https://github.com/yungjr/dr_py/raw/main/js/哔嘀影视.jsd"
+      "ext": "https://github.com/yungjr/dr_py/raw/main/js/哔嘀影视.js"
     },
     {
       "key": "drpy_js_唐人街影视[飞]",
